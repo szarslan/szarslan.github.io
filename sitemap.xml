@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://szarslan.github.io/</loc>
+    <lastmod>2020-05-23T01:35:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://szarslan.github.io/post/</loc>
+    <lastmod>2020-05-23T01:35:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://szarslan.github.io/post/%E5%9C%A8%E4%BF%A1%E6%81%AF%E7%A4%BE%E4%BC%9A%E9%87%8C%E8%A2%AB%E6%8A%9B%E5%BC%83/</loc>
+    <lastmod>2020-05-23T01:35:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://szarslan.github.io/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://szarslan.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://szarslan.github.io/author/nelson-bighetti/</loc>
+  </url>
+  
+  <url>
+    <loc>https://szarslan.github.io/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://szarslan.github.io/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://szarslan.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://szarslan.github.io/tags/</loc>
+  </url>
+  
+</urlset>
